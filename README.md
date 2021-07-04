@@ -3,6 +3,10 @@
 
 # -> [DEMO](https://agexandro.github.io/ListaHeroes/)
 
+## Overview
+
+![screenshot](https://github.com/Agexandro/ListaHeroes/blob/master/public/image.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
